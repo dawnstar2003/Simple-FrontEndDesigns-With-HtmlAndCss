@@ -1,0 +1,24 @@
+html,
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font:  sans-serif;
+    line-height: 1.5rem;
+}
+ 
+.h-tag{
+    text-align: center;
+    padding-bottom: 2.3rem;
+}
+
+#main{
+    flex:display;
+    flex-direction: column;
+    padding:9rem;
+    height: 59.5vh;;
+    background:url(mk.jpg) no-repeat center center/cover ;
+    font-size: 1.3rem;
+    overflow: hidden;
+    
+}
