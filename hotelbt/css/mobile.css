@@ -1,0 +1,49 @@
+/*NAVBAR IN MOBILE VIEW*/
+
+#navbar .logo{
+    float:none;
+    text-align: center;
+}
+
+#navbar ul,#navbar ul li{
+    float:none;
+}
+
+/* HOME INFO*/
+#home-info .info-img{
+    display:none;
+}
+
+#home-info .info-content{
+    float:none;
+    text-align: center;
+    width:100%;
+
+}
+
+.box{
+    float:none;
+    width:100%;
+}
+
+/*ABOUT PAGE IN MOBILE VIEW*/
+
+#about-info .info-right img{
+    display:none;
+
+}
+
+#about-info .info-left{
+    float:none;
+    width:100%;
+    text-align: center;
+
+}
+
+#about-info .info-left p{
+    padding-bottom:30px;
+}
+
+#testimonials{
+    height:100%;
+}
